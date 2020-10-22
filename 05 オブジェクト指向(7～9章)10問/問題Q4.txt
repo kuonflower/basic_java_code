@@ -1,0 +1,31 @@
+﻿Q4
+Student02クラスを作成する。
+
+■Student02クラス
+
+【フィールド】
+public String name
+public int score
+
+
+【コンストラクタ】
+public Student(String name,int score)
+
+----------------------------------------------------
+
+■Mainクラス(名前は自由)
+
+要素数が3個のStudent型の配列を宣言する。
+
+最初の要素にnew Student("のび太",100)を代入せよ
+次の要素にnew Student("しずか",90)を代入せよ
+最後の要素にnew Student("じゃいあん",55)を代入せよ
+
+配列の中身の名前を表示せよ
+
+
+[実行例]
+
+のび太 : 100
+しずか : 90
+じゃいあん : 55
